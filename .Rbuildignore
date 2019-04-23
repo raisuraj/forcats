@@ -15,3 +15,6 @@
 ^_pkgdown\.yml$
 ^revdep$
 ^\.github$
+^forcats\.Rcheck$
+^forcats.*\.tar\.gz$
+^forcats.*\.tgz$
